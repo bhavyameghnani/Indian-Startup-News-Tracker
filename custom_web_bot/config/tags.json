@@ -1,0 +1,98 @@
+{
+  "keywords_proper": {
+    "Name of brokerage": [
+      "Finance Securities",
+      "Daiwa Securities",
+      "SMBC Nikko Securities",
+      "Mizuho Securities",
+      "SBI Securities",
+      "Rakuten Securities",
+      "Monex",
+      "Matsui Securities",
+      "Okasan Securities",
+      "Philips Securities"
+    ],
+    "Financial institutions": [
+      "Mitsubishi UFJ",
+      "Sumitomo Mitsui",
+      "Mizuho",
+      "Resona",
+      "Japan Post",
+      "Bank of Japan",
+      "Mitsubishi UFJ FG",
+      "Mizuho FG",
+      "Sumitomo Mitsui FG",
+      "SBI Securities",
+      "Rakuten Securities",
+      "Monex",
+      "Daiwa Securities",
+      "Matsui Securities",
+      "Okasan Securities",
+      "SBI Shinsei Bank",
+      "SBI Sumishin Net Bank"
+    ],
+    "Overseas financial institutions": [
+      "Goldman Sachs",
+      "JPMorgan",
+      "Morgan Stanley",
+      "Citigroup",
+      "Bank of America",
+      "UBS",
+      "Credit Suisse",
+      "HSBC",
+      "Barclays",
+      "Deutsche Bank"
+    ],
+    "Investments": [
+      "Oltz",
+      "aio",
+      "Cogent Labs",
+      "Cinnamon",
+      "Xenodata Labs",
+      "Sakana",
+      "R3",
+      "Diekaret",
+      "Quantstamp",
+      "OPN",
+      "Synoa",
+      "Securitize",
+      "N. Avenue",
+      "Omakase",
+      "Fundnel (Alta)",
+      "Techfund",
+      "Wells Fargo",
+      "Chikaku",
+      "ODX",
+      "Crypto Garage",
+      "Dreamer's Fund"
+    ]
+  },
+  "keywords_common": {
+    "Industry terminology": [
+      "Securities",
+      "Investments",
+      "Finance",
+      "Asset Management",
+      "Stocks",
+      "Bonds",
+      "Investment Trust",
+      "Fintech",
+      "RoboAdvisor"
+    ],
+    "AI related": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "NLP",
+      "Big Data",
+      "Data Analytics",
+      "Algorithms",
+      "Automation",
+      "RPA",
+      "Chatbot",
+      "Digital Human",
+      "AI Agent"
+    ]
+  }
+}

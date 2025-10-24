@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://inc42.com/buzz/?utm_medium=referral&utm_source=menu",
+    "xpath": "/html/body/div[1]/div[1]/div/div/main/div/div/div[1]/h2/a",
+    "id": "0003",
+    "article_cnt": 12,
+    "name": "inc42_news",
+    "type": "xpath"
+  },
+  {
+    "url": "https://entrackr.com/all-article",
+    "xpath": "/html/body/div[1]/main/div/div/div/div[2]/div/div/div[2]/a",
+    "id": "0004",
+    "article_cnt": 1,
+    "name": "entrackr_all_articles",
+    "type": "xpath"
+  },
+  {
+    "url": "https://yourstory.com/search?page=1&tag=Just%2520In",
+    "xpath": "/html/body/div[1]/main/div/main/section/div[1]/div/div/div/li/a",
+    "id": "0005",
+    "article_cnt": 20,
+    "name": "your_story",
+    "type": "xpath"
+  },
+  {
+    "url": "https://indianstartupnews.com/",
+    "xpath": "/html/body/div[1]/main/div[2]/div/div/section[1]/div[3]/div/section/div/div/a[2]",
+    "id": "0006",
+    "article_cnt": 17,
+    "name": "isn",
+    "type": "xpath"
+  },
+  {
+    "url": "https://www.mckinsey.com/insights/rss",
+    "xpath": "/html/body/div[2]/div[2]/ul/li/div[1]/a",
+    "id": "0001",
+    "article_cnt": 254,
+    "name": "mckinsey",
+    "type": "xpath"
+  },
+  {
+    "url": "https://www.forbes.com/sites/forbesdaily/",
+    "xpath": "/html/body/div[1]/div/main/div[1]/div[1]/section[2]/div/div/div/div/div[2]/div/div/div/div[2]/h3/a",
+    "id": "0002",
+    "article_cnt": 20,
+    "name": "forbes-daily",
+    "type": "xpath"
+  }
+]

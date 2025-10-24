@@ -15,6 +15,9 @@ pip-delete-this-log.txt
 .python-version
 .vscode/
 .env
+model 
+data_new/
+
 # 2. IDE and OS Files (Standard)
 # ----------------------------------------
 .DS_Store # macOS
