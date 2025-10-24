@@ -1,0 +1,44 @@
+# 🎙️ AI News Podcast Generator .gitignore
+# ----------------------------------------
+
+# 1. Python Environment & Dependency Files
+# ----------------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv/
+env/
+pip-log.txt
+pip-delete-this-log.txt
+.python-version
+.vscode/
+.env
+# 2. IDE and OS Files (Standard)
+# ----------------------------------------
+.DS_Store # macOS
+.vscode/ # Visual Studio Code settings
+*~
+*.swp
+
+# 3. Generated Output Files (Crucial for this Project)
+# These are the files created by the agents and tools and should not be tracked.
+# ----------------------------------------
+ai_research_report.md
+ai_today_podcast.wav
+*.wave
+
+# 4. Data/Temp Files from Libraries
+# ----------------------------------------
+# Files that may be created by the yfinance library or similar data tools
+*.csv
+*.xlsx
+*.parquet
+
+# 5. Sensitive Data / Configuration (If you use a config file)
+# ----------------------------------------
+.env
+config.yaml
+config.json
+secrets.py
