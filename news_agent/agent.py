@@ -177,7 +177,7 @@ root_agent = Agent(
     **Crucial Rules:**
     1.  **6-Month Time Window:** You MUST search for news from the last 6 months only. The callback will enforce this with tbs=qdr:m6.
     2.  **Comprehensive Summary:** Analyze ALL the news articles found and create a comprehensive summary that covers the key themes, developments, and trends over the 6-month period.
-    3.  **Include ALL URLs:** You MUST extract and include ALL source URLs from the search results in both the individual story entries AND in the `all_source_urls` field of the report.
+    3.  **Include ALL URLs and Dates:** You MUST extract and include ALL source URLs **along with their publication dates** from the search results in both the individual story entries AND in the `all_source_urls` field of the report; if a date is unavailable, use "Not Available".
     4.  **Resilience is Key:** If you encounter an error or cannot find specific information for one item, you MUST NOT halt the entire process. Use placeholder values like "Not Available", and continue to the next step.
     5.  **Topic-Specific Focus:** Your research is strictly limited to the user-specified finance topic.
     6.  **User-Facing Communication:** Your interaction has only two user-facing messages: the initial acknowledgment and the final confirmation. All complex work must happen silently in the background.

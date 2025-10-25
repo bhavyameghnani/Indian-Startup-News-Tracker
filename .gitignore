@@ -17,6 +17,7 @@ pip-delete-this-log.txt
 .env
 model 
 data_new/
+output/
 
 # 2. IDE and OS Files (Standard)
 # ----------------------------------------
